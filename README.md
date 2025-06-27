@@ -99,17 +99,7 @@ LandingPage_IHC/
    - Mejoras de accesibilidad
    - Optimización para más dispositivos
 
-## Configuración del Proyecto
 
-1. Clonar el repositorio
-2. Crear la estructura de carpetas necesaria
-3. Añadir las imágenes en la carpeta `public/assets/images`
-4. Abrir `public/index.html` en un navegador moderno
 
-## Contribución
-
-1. Fork del repositorio
-2. Crear rama de feature (`git checkout -b feature/NuevaFuncionalidad`)
-3. Commit de cambios (`git commit -m 'Añadir nueva funcionalidad'`)
 4. Push a la rama (`git push origin feature/NuevaFuncionalidad`)
 5. Crear Pull Request 
